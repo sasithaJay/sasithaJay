@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Java JavaScript**
+- 🌱 I’m currently learning **Java, Unity & JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sasitha-Jay](https://github.com/Sasitha-Jay)
 
