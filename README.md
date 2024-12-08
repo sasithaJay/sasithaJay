@@ -24,6 +24,8 @@
 
 <h2 align="center">My GitHub Activities</h2>
 
-![Sasitha's github stats](https://github-readme-stats.vercel.app/api?username=sasithaJay&show_icons=true&theme=tokyonight) ![Sasitha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasithaJay&theme=tokyonight) 
-
+![Sasitha's github stats](https://github-readme-stats.vercel.app/api?username=sasithaJay&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasithaJay&theme=tokyonight) 
+![Sasitha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasithaJay&theme=tokyonight) 
+
+
