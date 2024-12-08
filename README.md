@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sasitha Jayasooriya</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasitha-jay&label=Profile%20views&color=0e75b6&style=flat" alt="sasitha-jay" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasithaJay&label=Profile%20views&color=0e75b6&style=flat" alt="sasithaJay" /> </p>
 
 
 
 - 🌱 I’m currently learning **Java, Unity & JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sasitha-Jay](https://github.com/Sasitha-Jay)
+- 👨‍💻 All of my projects are available at [https://github.com/SasithaJay](https://github.com/SasithaJay)
 
 - 📫 How to reach me **sasitha01jay@gmail.com**
 
@@ -24,6 +24,6 @@
 
 <h2 align="center">My GitHub Activities</h2>
 
-| ![Sasitha's github stats](https://github-readme-stats.vercel.app/api?username=sasithaJay&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasithaJay&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasithaJay&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sasithaJay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+![Sasitha's github stats](https://github-readme-stats.vercel.app/api?username=sasithaJay&show_icons=true&theme=tokyonight) ![Sasitha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasithaJay&theme=tokyonight) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasithaJay&theme=tokyonight) 
