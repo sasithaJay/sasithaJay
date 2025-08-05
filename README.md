@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, C# & PHP**
+- 🌱 I’m currently learning **Java, C#, Data Structures & PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SasithaJay](https://github.com/SasithaJay)
 
