@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, C#, Data Structures & PHP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SasithaJay](https://github.com/SasithaJay)
+- 👨‍💻 All of my projects are available at [https://github.com/SasithaJay](https://github.com/SasithaJay). So check out.
 
 - 📫 How to reach me **sasitha01jay@gmail.com**
 
